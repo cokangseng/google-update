@@ -45,6 +45,7 @@
     <link rel="alternate" hreflang="en" href="https://sancarlosborromeo.madamtoto.shop/" />
     <link rel="alternate" hreflang="x-default" href="https://sancarlosborromeo.madamtoto.shop/" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="google-site-verification" content="j4BmvSqdFSzFwnEFagZY6JUBh2GuYQzBUkGp1Yb2a4I" />
     <link rel="icon" type="image/x-icon" href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://abang-cungkok.pages.dev/MadamToto/favim.png" sizes="72x72">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://abang-cungkok.pages.dev/MadamToto/favim.png" sizes="114x114">
